@@ -18,16 +18,16 @@ description: >-
 
 ## About
 
-This is the course developed by Xiaogang He.
+TBD.
 
 ## Lecture
 
-Slides can be found in LumiNUS.
+Slides can be found in LumiNUS. TBD. 
 
 ## Resources
 
-Online resources can be found here.
+Online resources can be found here. TBD. 
 
 ## Assignments
 
-We will have two assignments 
+We will have two assignments. TBD.  
