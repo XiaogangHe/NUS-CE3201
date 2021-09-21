@@ -6,7 +6,9 @@ description: Listing of course modules and topics.
 
 # Calendar 🗓️ 
 
-**This website is in progress and all content is subject to change.**{: .text-blue-000 }
+**This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
+
+[Find Zoom Links, Recordings, and Slides on LumiNUS](http://example.com/){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}
