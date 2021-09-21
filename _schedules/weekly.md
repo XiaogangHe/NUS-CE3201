@@ -22,7 +22,7 @@ schedule:
         location: EA-06-03
   - name: Wednesday
     events:
-      - name: Tutorial
+      - name: Section
         start: 6:00 PM
         end: 8:00 PM
         location: PC5 (E2-03-08) & PC6 (E2-03-09)
