@@ -29,9 +29,11 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Xiaogang He:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
+  E-Book:
+    - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
+  LumiNUS:
+    - 'https://luminus.nus.edu.sg/'
 footer_content:
 
 # Collections for website data
