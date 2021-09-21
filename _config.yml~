@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CE3201
-tagline: Civil Engineering Analytics and Data Visualization
-description: This course aims to introduce CEE students to the basic concepts and approaches to carry out basic data exploration from civil engineering sensors. Students will learn to model and make sense of data through various methods including exploratory data analysis.
+tagline: Civil Engineering Analytics and Data Visualization 📊
+description: Fall 2021 at National University of Singapore (NUS). 
 author: Xiaogang He
-baseurl: 'NUS-CE3201/' # the subpath of your site, e.g. /blog
+baseurl: 'NUS-CE3201' # the subpath of your site, e.g. /blog
 url: 'https://xiaoganghe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -34,7 +34,7 @@ aux_links:
     - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
   LumiNUS:
     - 'https://luminus.nus.edu.sg/'
-footer_content:
+footer_content: 'Xiaogang HE &copy; 2021 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:

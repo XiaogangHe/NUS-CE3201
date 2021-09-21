@@ -4,6 +4,7 @@ role: Instructor
 email: hexg@nus.edu.sg
 website: http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html
 photo: xiaogang-he.png
+pronouns: he/him/his
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
