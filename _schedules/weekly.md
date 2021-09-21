@@ -19,7 +19,7 @@ schedule:
     events:
       - name: Lecture
         start: 4:00 PM
-        end: 6:00 PM
+        end: 6:00 PM 
         location: EA-06-03
   - name: Wednesday
     events:
