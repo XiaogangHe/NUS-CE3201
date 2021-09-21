@@ -30,7 +30,7 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 4:00 PM
+        end: 5:00 PM
         location: E2-02-06
 ---
