@@ -12,3 +12,4 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+![Image of NUS Campus](./assets/images/NUS-campus.svg)
