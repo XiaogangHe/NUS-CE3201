@@ -17,7 +17,7 @@ title: CE3201
 tagline: Civil Engineering Analytics and Data Visualization
 description: This course aims to introduce CEE students to the basic concepts and approaches to carry out basic data exploration from civil engineering sensors. Students will learn to model and make sense of data through various methods including exploratory data analysis.
 author: Xiaogang He
-baseurl: 'NUS-CE3201/' # the subpath of your site, e.g. /blog
+baseurl: 'NUS-CE3201' # the subpath of your site, e.g. /blog
 url: 'https://xiaoganghe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
