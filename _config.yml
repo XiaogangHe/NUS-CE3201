@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CE3201
 tagline: Civil Engineering Analytics and Data Visualization 📊
-description: Fall 2021 at National University of Singapore (NUS). 
+description: Fall 2021 at National University of Singapore (NUS) 
 author: Xiaogang He
 baseurl: 'NUS-CE3201' # the subpath of your site, e.g. /blog
 url: 'https://xiaoganghe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
