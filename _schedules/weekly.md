@@ -17,31 +17,15 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 4:00 PM
+        end: 6:00 PM
+        location: EA-06-03
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Tutorial
+        start: 6:00 PM
+        end: 8:00 PM
+        location: PC5 (E2-03-08) & PC6 (E2-03-09)
   - name: Thursday
   - name: Friday
     events:
