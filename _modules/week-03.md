@@ -8,5 +8,5 @@ Oct 19
 
 Oct 20
 : **Tutorial 3**{: .label .label-green }[Scipy](#)
-  : [Exercise](#) [Solution](#)
+  : [Exercise](#) [(Solution)](#)
 : **HW#1 due**{: .label .label-red }

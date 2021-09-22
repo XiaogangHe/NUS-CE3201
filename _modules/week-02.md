@@ -8,5 +8,5 @@ Oct 12
 
 Oct 13
 : **Tutorial 2**{: .label .label-green }[Matplotlib](#)
-  : [Exercise](#) [Solution](#)
+  : [Exercise](#) [(Solution)](#)
 : **HW#1 out**{: .label .label-yellow }

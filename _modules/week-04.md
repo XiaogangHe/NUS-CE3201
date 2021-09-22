@@ -8,5 +8,5 @@ Oct 26
 
 Oct 27
 : **Tutorial 4**{: .label .label-green }[TBD](#)
-  : [Exercise](#) [Solution](#)
+  : [Exercise](#) [(Solution)](#)
 : **HW#2 out**{: .label .label-yellow }

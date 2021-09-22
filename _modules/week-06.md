@@ -8,4 +8,4 @@ Nov 9
 
 Nov 10
 : **Tutorial 6**{: .label .label-green }[TBD](#)
-  : [Exercise](#) [Solution](#)
+  : [Exercise](#) [(Solution)](#)

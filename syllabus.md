@@ -5,7 +5,7 @@ description: >-
     Syllabus.
 ---
 
-# Syllabus
+# Syllabus 📖
 {:.no_toc}
 
 ## Table of contents

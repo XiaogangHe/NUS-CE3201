@@ -1,15 +1,15 @@
 ---
-layout: home
-title: CE3201
-nav_exclude: true
-seo:
-  type: Course
-  name: CE3201
+layout: page
+title: Calendar
+description: Listing of course modules and topics.
 ---
 
-# {{ site.tagline }}
-{: .mb-2 }
-{{ site.description }}
-{: .fs-6 .fw-300 }
+# Calendar 🗓️ 
 
-![Image of NUS Campus](./assets/images/NUS-campus.svg)
+**This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
+
+[Find Zoom Links, Recordings, and Slides on LumiNUS](https://luminus.nus.edu.sg){: .btn .btn-blue }
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}

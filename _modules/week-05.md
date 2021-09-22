@@ -8,5 +8,5 @@ Nov 2
 
 Nov 3
 : **Tutorial 5**{: .label .label-green }[TBD](#)
-  : [Exercise](#) [Solution](#)
+  : [Exercise](#) [(Solution)](#)
 : **HW#2 due**{: .label .label-red }
