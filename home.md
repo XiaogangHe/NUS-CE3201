@@ -1,10 +1,9 @@
 ---
-layout: home
-title: CE3201
-nav_exclude: true
-seo:
-  type: Course
-  name: Civil Engineering Analytics and Data Visualization
+layout: page
+title: Home
+nav_order: 1
+description: >-
+    Course information, schedules, etc.
 ---
 
 # {{ site.tagline }}
@@ -22,7 +21,7 @@ seo:
 
 CE3201 is about data analytics and visualization. Add more description here.  
 
-<small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
+<small>[Read more...]({{ site.baseurl }}{% link syllabus.md %})</small>
 
 [Find Zoom Links, Recordings, and Slides on LumiNUS](https://luminus.nus.edu.sg){: .btn .btn-blue }
 

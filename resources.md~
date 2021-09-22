@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Syllabus
-nav_order: 2
+title: Resources
+nav_order: 5
 description: >-
     Syllabus.
 ---
 
-# Syllabus 📖
+# Resources 📚
 {:.no_toc}
 
 ## Table of contents
@@ -17,14 +17,12 @@ description: >-
 
 ---
 
-## About CE3201
+## Web References
+
+TBD. 
+
+## Books
 
 TBD.
 
-## Hybrid Format
 
-TBD. 
-
-## Grading 
-
-TBD. 

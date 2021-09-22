@@ -42,6 +42,7 @@ collections:
   modules:
   schedules:
   announcements:
+
 # Default layouts for each collection type
 defaults:
   - scope:

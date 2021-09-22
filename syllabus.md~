@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Syllabus 📖
+title: Syllabus
+nav_order: 2
 description: >-
     Syllabus.
 ---
 
-# Syllabus
+# Syllabus 📖
 {:.no_toc}
 
 ## Table of contents
@@ -24,6 +25,6 @@ TBD.
 
 TBD. 
 
-## Policies 
+## Grading 
 
 TBD. 
