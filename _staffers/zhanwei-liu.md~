@@ -5,4 +5,4 @@ email: liuzhanwei@u.nus.edu
 photo: zhanwei-liu.jpg
 ---
 
-I like teaching Computer Science!
+I like teaching Energy Science!
