@@ -2,10 +2,10 @@
 layout: page
 title: Syllabus
 description: >-
-    Course policies and information.
+    Syllabus.
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,14 @@ description: >-
 
 ---
 
-## About
+## About CE3201
 
 TBD.
 
-## Lecture
+## Hybrid Format
 
-Slides can be found in LumiNUS. TBD. 
+TBD. 
 
-## Resources
+## Policies 
 
-Online resources can be found here. TBD. 
-
-## Assignments
-
-We will have two assignments. TBD.  
+TBD. 
