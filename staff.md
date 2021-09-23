@@ -2,10 +2,11 @@
 layout: page
 title: Staff
 nav_order: 4
+last_modified_date: "now"
 description: A listing of all the course staff members.
 ---
 
-## Instructor 🧑‍🏫
+## Instructor 🧑‍🏫 
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

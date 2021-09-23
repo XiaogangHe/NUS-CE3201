@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Xiaogang He:
     - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
-  E-Book:
-    - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
+  pyCIVIL E-Book:
+    - 'https://xiaoganghe.github.io/python-climate-visuals'
   LumiNUS:
     - 'https://luminus.nus.edu.sg/'
 footer_content: 'Xiaogang HE &copy; 2021 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
@@ -42,7 +42,6 @@ collections:
   modules:
   schedules:
   announcements:
-  links:
 
 # Default layouts for each collection type
 defaults:
@@ -67,11 +66,6 @@ defaults:
       type: announcements
     values:
       layout: announcement
-  - scope:
-      path: ''
-      type: links
-    values:
-      layout: page
 
 compress_html:
   clippings: all

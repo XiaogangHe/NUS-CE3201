@@ -2,8 +2,9 @@
 layout: page
 title: Resources
 nav_order: 5
+last_modified_date: "now"
 description: >-
-    Syllabus.
+    Resources.
 ---
 
 # Resources 📚

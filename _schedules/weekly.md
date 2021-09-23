@@ -28,10 +28,10 @@ schedule:
         end: 8:00 PM
         location: PC5 (E2-03-08) <br /> PC6 (E2-03-09) 
   - name: Thursday
-  - name: Friday
     events:
       - name: Office Hours
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 3:00 PM
+        end: 4:00 PM
         location: E2-02-06
+  - name: Friday
 ---
