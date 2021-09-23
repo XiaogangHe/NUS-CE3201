@@ -33,4 +33,4 @@ CE3201 is about data analytics and visualization. Add more description here.
 
 ![Image of NUS Campus](./assets/images/NUS-campus.svg)
 
-Note: **This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
+**This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
