@@ -19,13 +19,14 @@ description: >-
 ---
 
 ## About CE3201
-
-CE3201 is about xxx.
+This course aims to introduce basic data science concepts and visualization techniques to students who
+are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data
+to tell a compelling story of global challenges (e.g., emerging climate crisis).
 
 ### Learning Outcomes
 - An understanding of visualization techniques including data models, graphical perception and methods for visual encoding and interaction.
 - Exposure to several common data domains and corresponding analysis tasks, including multivariate data, networks, text and cartography.
-- Practical experience building visuals from data using available tools and libraries, and deriving sound interpretations from them.
+- Practical experience building visuals from data using open-source tools and libraries, and deriving sound interpretations from them.
 
 ### Prerequisites
 This module requires no prior knowledge of progamming and only basic concepts of statistics. 

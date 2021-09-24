@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Home",
     "title": "Civil Engineering Analytics and Data Visualization 📊",
-    "content": "National University of Singapore (NUS), Fall 2021 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . CE3201 is about data analytics and visualization. Add more description here. Read more… . Find Zoom Links, Slides, and Recordings on LumiNUS . ",
+    "content": "National University of Singapore (NUS), Fall 2021 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Read more… . Find Zoom Links, Slides, and Recordings on LumiNUS . ",
     "url": "http://localhost:4000/home/#civil-engineering-analytics-and-data-visualization-",
     "relUrl": "/home/#civil-engineering-analytics-and-data-visualization-"
   },"4": {
@@ -229,7 +229,7 @@
   },"38": {
     "doc": "Syllabus",
     "title": "About CE3201",
-    "content": "CE3201 is about xxx. Learning Outcomes . | An understanding of visualization techniques including data models, graphical perception and methods for visual encoding and interaction. | Exposure to several common data domains and corresponding analysis tasks, including multivariate data, networks, text and cartography. | Practical experience building visuals from data using available tools and libraries, and deriving sound interpretations from them. | . Prerequisites . This module requires no prior knowledge of progamming and only basic concepts of statistics. ",
+    "content": "This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Learning Outcomes . | An understanding of visualization techniques including data models, graphical perception and methods for visual encoding and interaction. | Exposure to several common data domains and corresponding analysis tasks, including multivariate data, networks, text and cartography. | Practical experience building visuals from data using open-source tools and libraries, and deriving sound interpretations from them. | . Prerequisites . This module requires no prior knowledge of progamming and only basic concepts of statistics. ",
     "url": "http://localhost:4000/syllabus/#about-ce3201",
     "relUrl": "/syllabus/#about-ce3201"
   },"39": {
