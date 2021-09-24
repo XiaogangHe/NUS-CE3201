@@ -8,5 +8,5 @@ Oct 19
 : **HW#1 out**{: .label .label-yellow}
 
 Oct 20
-: **Tutorial 3**{: .label .label-green } Work on HW#1
+: **Tutorial 3**{: .label .label-green } Scipy + Work on HW#1
   : []()

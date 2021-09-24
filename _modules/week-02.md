@@ -7,5 +7,5 @@ Oct 12
   : [[Slides](#)] [[Recordings](#)]
 
 Oct 13
-: **Tutorial 2**{: .label .label-green} Pandas, Scipy, Matplotlib
+: **Tutorial 2**{: .label .label-green} Pandas, Matplotlib
   : [[Exercise](#)] [[Solution](#)]

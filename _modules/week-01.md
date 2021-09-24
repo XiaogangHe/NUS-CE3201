@@ -7,5 +7,5 @@ Oct 5
   : [[Slides](#)] [[Recordings](#)]
 
 Oct 6 
-: **Tutorial 1**{: .label .label-green } Python, Numpy, Jupyter Notebook
+: **Tutorial 1**{: .label .label-green } Python, Numpy
   : [[Exercise](#)] [[Solution](#)]
