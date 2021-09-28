@@ -29,9 +29,12 @@ description: >-
     but please check it out if you are interested in learning more advanced visualization.
   - [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html)
   - [Data Visualization Class @ University of Washington](https://courses.cs.washington.edu/courses/cse512/19sp/)
+  - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
+- **Colors**
+  - [Chinese Traditional Color](https://github.com/zerosoul/chinese-colors)
 
 ## Books
 
 - [Think Python](https://www.greenteapress.com/thinkpython2/html/index.html). [[PDF]](https://greenteapress.com/thinkpython2/thinkpython2.pdf).
 - [Think Stats](https://greenteapress.com/thinkstats2/html/index.html). [[PDF]](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
-
+- [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) [[Codes]](https://github.com/wesm/pydata-book)

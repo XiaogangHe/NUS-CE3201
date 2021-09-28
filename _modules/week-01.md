@@ -8,4 +8,4 @@ Oct 5
 
 Oct 6 
 : **Tutorial 1**{: .label .label-green } Python, Numpy
-  : [[Exercise](#)] [[Solution](#)]
+  : [[Jupyter Notebook](#)] 
