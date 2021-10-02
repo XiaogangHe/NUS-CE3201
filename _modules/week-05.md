@@ -8,5 +8,5 @@ Nov 2
 : **HW#2 OUT**{: .label .label-yellow}
 
 Nov 3
-: **Tutorial 5**{: .label .label-green} Work on HW#2
+: **Tutorial 5**{: .label .label-green} Xarray + Work on HW#2
   : [](#) 
