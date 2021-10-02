@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Home",
     "title": "Week 8 - Welcome to CE3201 👏",
-    "content": "Oct 5 Lecture   1 Introduction [Slides] [Recordings] Oct 6 Tutorial 1 Python, Numpy [Jupyter Notebook] ",
+    "content": "Oct 5 Lecture   1 Introduction [Slides] [Recordings] Oct 6 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
     "url": "http://localhost:4000/home/#week-8-welcome-to-ce3201",
     "relUrl": "/home/#week-8-welcome-to-ce3201"
   },"5": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Nov 2 Lecture   5 Figure Design HW#2 OUT Nov 3 Tutorial 5 Work on HW#2 ",
+    "content": "Nov 2 Lecture   5 Figure Design HW#2 OUT Nov 3 Tutorial 5 Xarray + Work on HW#2 ",
     "url": "http://localhost:4000/home/#week-12",
     "relUrl": "/home/#week-12"
   },"9": {
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "CE3201",
     "title": "Week 8 - Welcome to CE3201 👏",
-    "content": "Oct 5 Lecture   1 Introduction [Slides] [Recordings] Oct 6 Tutorial 1 Python, Numpy [Jupyter Notebook] ",
+    "content": "Oct 5 Lecture   1 Introduction [Slides] [Recordings] Oct 6 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
     "url": "http://localhost:4000/#week-8-welcome-to-ce3201",
     "relUrl": "/#week-8-welcome-to-ce3201"
   },"14": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "CE3201",
     "title": "Week 12",
-    "content": "Nov 2 Lecture   5 Figure Design HW#2 OUT Nov 3 Tutorial 5 Work on HW#2 ",
+    "content": "Nov 2 Lecture   5 Figure Design HW#2 OUT Nov 3 Tutorial 5 Xarray + Work on HW#2 ",
     "url": "http://localhost:4000/#week-12",
     "relUrl": "/#week-12"
   },"18": {
@@ -156,10 +156,10 @@
     "relUrl": "/resources/"
   },"26": {
     "doc": "Schedule",
-    "title": "Weekly Schedule 🗓️",
+    "title": "Weekly Timetable 🗓️",
     "content": ". | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | . | ",
-    "url": "http://localhost:4000/schedule/#weekly-schedule-%EF%B8%8F",
-    "relUrl": "/schedule/#weekly-schedule-️"
+    "url": "http://localhost:4000/schedule/#weekly-timetable-%EF%B8%8F",
+    "relUrl": "/schedule/#weekly-timetable-️"
   },"27": {
     "doc": "Schedule",
     "title": "Monday",
