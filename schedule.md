@@ -6,7 +6,7 @@ last_modified_date: "now"
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule 🗓️  
+# Weekly Timetable 🗓️  
 
 {% for schedule in site.schedules %}
 {{ schedule }}
