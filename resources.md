@@ -20,9 +20,8 @@ description: >-
 
 ## Web References
 
-- **Python**
-  - [The Python Tutorial](https://docs.python.org/3.5/tutorial/)
-  - [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
+- **Data Science**
+  - [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 - **Data Visualization**
   - [Matplotlib Pyplot Tutorial](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html)
   - [Altair: Declarative Visualization in Python](https://altair-viz.github.io/): We will not teach/use Altair in this class,
@@ -30,8 +29,13 @@ description: >-
   - [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html)
   - [Data Visualization Class @ University of Washington](https://courses.cs.washington.edu/courses/cse512/19sp/)
   - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
+  - [A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
+- **Python**
+  - [The Python Tutorial](https://docs.python.org/3.5/tutorial/)
+  - [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
 - **Colors**
   - [Chinese Traditional Color](https://github.com/zerosoul/chinese-colors)
+  - [Color Palettes for Python](https://github.com/jiffyclub/palettable)
 
 ## Books
 
