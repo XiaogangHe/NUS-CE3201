@@ -30,6 +30,7 @@ description: >-
   - [Data Visualization Class @ University of Washington](https://courses.cs.washington.edu/courses/cse512/19sp/)
   - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
   - [A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
+  - [A visual introduction to probability and statistics](https://seeing-theory.brown.edu/)
 - **Python**
   - [The Python Tutorial](https://docs.python.org/3.5/tutorial/)
   - [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
