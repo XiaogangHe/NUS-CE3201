@@ -5,6 +5,7 @@ title: Week 13
 Nov 9
 : **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
   : [](#)
+: **Project OUT**{: .label .label-yellow}
 
 Nov 10
 : **Tutorial 6**{: .label .label-green} Work on HW#2
