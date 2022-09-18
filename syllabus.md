@@ -70,11 +70,11 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 
 | Assignment type          | Weight   | Number      |
 |:-------------------------|:---------|:------------|
-| Tutorial attendance[^1]  | 30%      | 4 (+2)[^2]  |
-| Homework                 | 30%      | 2           |
-| Final Project            | 40%      | 1           |
+| Tutorial attendance[^1]  | 20%      | 4 (+2)[^2]  |
+| Homework                 | 35%      | 2           |
+| Final Project            | 45%      | 1           |
 
 [^1]: As all tutorials are fully available online, you do not have to come to the computer lab (PC5 & PC6) to do the tutorial. 
       If you choose to do this remotely, we will check the attendance through Zoom.  
 
-[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 27, Week 11) and Tutorial 6 (Nov 10, Week 13) and still receive full points.
+[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 26, Week 11) and Tutorial 6 (Nov 9, Week 13) and still receive full points.

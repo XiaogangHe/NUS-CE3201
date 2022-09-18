@@ -40,6 +40,6 @@ description: >-
 
 ## Books
 
-- [Think Python](https://www.greenteapress.com/thinkpython2/html/index.html). [[PDF]](https://greenteapress.com/thinkpython2/thinkpython2.pdf).
-- [Think Stats](https://greenteapress.com/thinkstats2/html/index.html). [[PDF]](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
+- [Think Python](https://www.greenteapress.com/thinkpython2/html/index.html) [[PDF]](https://greenteapress.com/thinkpython2/thinkpython2.pdf).
+- [Think Stats](https://greenteapress.com/thinkstats2/html/index.html) [[PDF]](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) [[Codes]](https://github.com/wesm/pydata-book)
