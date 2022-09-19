@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Home",
     "title": "Week 9",
-    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas, Matplotlib [Exercise] [Solution] ",
+    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas [Exercise] [Solution] ",
     "url": "http://localhost:4000/home/#week-9",
     "relUrl": "/home/#week-9"
   },"6": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Xarray + Work on HW#2 ",
+    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Matplotlib + Work on HW#2 ",
     "url": "http://localhost:4000/home/#week-12",
     "relUrl": "/home/#week-12"
   },"9": {
@@ -85,7 +85,7 @@
   },"14": {
     "doc": "CE3201",
     "title": "Week 9",
-    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas, Matplotlib [Exercise] [Solution] ",
+    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas [Exercise] [Solution] ",
     "url": "http://localhost:4000/#week-9",
     "relUrl": "/#week-9"
   },"15": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "CE3201",
     "title": "Week 12",
-    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Xarray + Work on HW#2 ",
+    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Matplotlib + Work on HW#2 ",
     "url": "http://localhost:4000/#week-12",
     "relUrl": "/#week-12"
   },"18": {

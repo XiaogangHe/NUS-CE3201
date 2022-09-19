@@ -8,5 +8,5 @@ Oct 31
 : **HW#2 OUT**{: .label .label-yellow}
 
 Nov 2
-: **Tutorial 5**{: .label .label-green} [Xarray](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/xarray.html) + Work on [HW#2](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework2.html)
+: **Tutorial 5**{: .label .label-green} [Matplotlib](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-visuals/matplotlib.html) + Work on [HW#2](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework2.html)
   : [](#) 
