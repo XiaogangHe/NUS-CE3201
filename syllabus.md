@@ -45,10 +45,9 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 ### Tutorials
 - We will have 6 tutorials in total. One tutorial per week. 
 - Tutorials are prepared in Jupyter Notebook format and are fully available [online](https://xiaoganghe.github.io/python-climate-visuals). 
-- This means you can do these tutorials anywhere (but with stable internet)  you want. 
-  We understand that sometimes programming and debugging could be cumbersome. So if you prefer to seek face-to-face support, 
-  you are welcome to come to the computer lab during the tutorial session. In the meantime, we will also offer online support through Zoom. 
-- You can also get help with tutorials during office hours or through emails. But the best place to get help is the weekly tutorial session.  
+- We understand that sometimes programming and debugging could be cumbersome. So please come to the computer lab to do tutorials so that the TAs
+  and I can provide hands-on help.
+- You are welcome to seek help during office hours or through emails. But the best place to get help is the weekly tutorial session.  
 
 ### Office Hours
 - Weekly fixed office hours can be found on the [Schedule]({{ site.baseurl }}{% link schedule.md %}) tab, 
@@ -74,7 +73,6 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 | Homework                 | 35%      | 2           |
 | Final Project            | 45%      | 1           |
 
-[^1]: As all tutorials are fully available online, you do not have to come to the computer lab (PC5 & PC6) to do the tutorial. 
-      If you choose to do this remotely, we will check the attendance through Zoom.  
+[^1]: Please come to the computer lab (PC5 & PC6) on time to do tutorials. Attendance will be checked.  
 
 [^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 26, Week 11) and Tutorial 6 (Nov 9, Week 13) and still receive full points.
