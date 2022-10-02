@@ -8,5 +8,6 @@ Oct 17
 : **HW#1 out**{: .label .label-yellow}
 
 Oct 19
-: **Tutorial 3**{: .label .label-green } [Scipy](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/scipy-basic.html) + Work on [HW#1](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework1.html)
+: **Tutorial 3**{: .label .label-green} [Scipy](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/scipy-basic.html) + Work on [HW#1](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework1.html)
+  : 
 : **Project out**{: .label .label-yellow}
