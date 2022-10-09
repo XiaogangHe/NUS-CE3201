@@ -8,4 +8,4 @@ Oct 3
 
 Oct 5 
 : **Tutorial 1**{: .label .label-green } [Python](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python.html), [Numpy](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/numpy.html)
-  : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-exercise.html)] [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-exercise.html)]
+  : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-exercise.html)] [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-solution.html)]
