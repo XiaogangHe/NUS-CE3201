@@ -2,13 +2,13 @@
 title: Week 11
 ---
 
-Oct 24
+Oct 30
 : **Lecture &nbsp; 4**{: .label .label-blue} From Data to Visualization
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
+  : [[Slides](https://canvas.nus.edu.sg)] [[Recordings](https://canvas.nus.edu.sg)]
 
-Oct 26
+Nov 1
 : **Tutorial 4**{: .label .label-green} Work on HW#1
   : [](#) 
 
-Oct 30
+Nov 5
 : **HW#1 due**{: .label .label-red}

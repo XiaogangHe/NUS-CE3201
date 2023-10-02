@@ -2,13 +2,13 @@
 title: Week 13
 ---
 
-Nov 7
+Nov 13
 : **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
+  : [[Slides](https://canvas.nus.edu.sg)] [[Recordings](https://canvas.nus.edu.sg)]
 
-Nov 9
+Nov 15
 : **Tutorial 6**{: .label .label-green} Work on HW#2
   : [](#) 
 
-Nov 13
+Nov 19
 : **HW#2 due**{: .label .label-red}
