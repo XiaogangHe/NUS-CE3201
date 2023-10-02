@@ -24,7 +24,7 @@ to tell a compelling story of global challenges (e.g., emerging climate crisis).
 
 <small>[Read more...]({{ site.baseurl }}{% link syllabus.md %})</small>
 
-[Find Zoom Links, Slides, and Recordings on LumiNUS](https://luminus.nus.edu.sg){: .btn .btn-blue }
+[Find Slides and Recordings on Canvas](https://canvas.nus.edu.sg){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}

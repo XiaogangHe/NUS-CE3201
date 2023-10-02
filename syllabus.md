@@ -39,8 +39,6 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 - We will have 6 lectures in total. One lecture per week. 
 - These lectures will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
-- Lectures will be held live on Zoom and will be recorded. 
-  I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. 
 
 ### Tutorials
 - We will have 6 tutorials in total. One tutorial per week. 
@@ -75,4 +73,4 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 
 [^1]: Please come to the computer lab (PC5 & PC6) on time to do tutorials. Attendance will be checked.  
 
-[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 26, Week 11) and Tutorial 6 (Nov 9, Week 13) and still receive full points.
+[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Nov 1, Week 11) and Tutorial 6 (Nov 15, Week 13) and still receive full points.
