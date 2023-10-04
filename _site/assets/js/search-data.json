@@ -19,49 +19,49 @@
   },"3": {
     "doc": "Home",
     "title": "Civil Engineering Analytics and Data Visualization 📊",
-    "content": "National University of Singapore (NUS), Fall 2022 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Read more… . Find Zoom Links, Slides, and Recordings on LumiNUS . ",
+    "content": "National University of Singapore (NUS), Fall 2023 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Read more… . Find Slides and Recordings on Canvas . ",
     "url": "http://localhost:4000/home/#civil-engineering-analytics-and-data-visualization-",
     "relUrl": "/home/#civil-engineering-analytics-and-data-visualization-"
   },"4": {
     "doc": "Home",
     "title": "Week 8 - Welcome to CE3201 👏",
-    "content": "Oct 3 Lecture   1 Introduction [Slides] [Recordings] Oct 5 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
+    "content": "Oct 9 Lecture   1 Introduction [Slides] [Recordings] Oct 11 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
     "url": "http://localhost:4000/home/#week-8-welcome-to-ce3201",
     "relUrl": "/home/#week-8-welcome-to-ce3201"
   },"5": {
     "doc": "Home",
     "title": "Week 9",
-    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas [Exercise] [Solution] ",
+    "content": "Oct 16 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 18 Tutorial 2 Pandas [Exercise] [Solution] ",
     "url": "http://localhost:4000/home/#week-9",
     "relUrl": "/home/#week-9"
   },"6": {
     "doc": "Home",
     "title": "Week 10",
-    "content": "Oct 17 Lecture   3 Extreme Value Analysis [Slides] [Recordings] HW#1 out Oct 19 Tutorial 3 Scipy + Work on HW#1 [Exercise] [Solution] Oct 21 Project out [Project Description] ",
+    "content": "Oct 23 Lecture   3 Extreme Value Analysis [Slides] [Recordings] HW#1 out Oct 25 Tutorial 3 Scipy + Work on HW#1 [Exercise] [Solution] Oct 27 Project out [Project Description] ",
     "url": "http://localhost:4000/home/#week-10",
     "relUrl": "/home/#week-10"
   },"7": {
     "doc": "Home",
     "title": "Week 11",
-    "content": "Oct 24 Lecture   4 From Data to Visualization [Slides] [Recordings] Oct 26 Tutorial 4 Work on HW#1 Oct 30 HW#1 due ",
+    "content": "Oct 30 Lecture   4 From Data to Visualization [Slides] [Recordings] Nov 1 Tutorial 4 Work on HW#1 Nov 5 HW#1 due ",
     "url": "http://localhost:4000/home/#week-11",
     "relUrl": "/home/#week-11"
   },"8": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Matplotlib + Work on HW#2 ",
+    "content": "Nov 6 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 8 Tutorial 5 Matplotlib + Work on HW#2 ",
     "url": "http://localhost:4000/home/#week-12",
     "relUrl": "/home/#week-12"
   },"9": {
     "doc": "Home",
     "title": "Week 13",
-    "content": "Nov 7 Lecture   6 Storytelling with Data [Slides] [Recordings] Nov 9 Tutorial 6 Work on HW#2 Nov 13 HW#2 due ",
+    "content": "Nov 13 Lecture   6 Storytelling with Data [Slides] [Recordings] Nov 15 Tutorial 6 Work on HW#2 Nov 19 HW#2 due ",
     "url": "http://localhost:4000/home/#week-13",
     "relUrl": "/home/#week-13"
   },"10": {
     "doc": "Home",
     "title": "Examination Week",
-    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due . This website is in progress and all content is subject to change. ",
+    "content": "Previous 2022 Project Visualizing Urban Heat Stress and Labor Productivity Loss in Southeast Asia under Climate Change Dec 5 TBD [Project Description] Project Due . This website is in progress and all content is subject to change. ",
     "url": "http://localhost:4000/home/#examination-week",
     "relUrl": "/home/#examination-week"
   },"11": {
@@ -73,49 +73,49 @@
   },"12": {
     "doc": "CE3201",
     "title": "Civil Engineering Analytics and Data Visualization 📊",
-    "content": "National University of Singapore (NUS), Fall 2022 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Read more… . Find Zoom Links, Slides, and Recordings on LumiNUS . ",
+    "content": "National University of Singapore (NUS), Fall 2023 . Xiaogang HE he/him . 📧 hexg@nus.edu.sg . 📍 E2-02-06 (office) . This course aims to introduce basic data science concepts and visualization techniques to students who are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data to tell a compelling story of global challenges (e.g., emerging climate crisis). Read more… . Find Slides and Recordings on Canvas . ",
     "url": "http://localhost:4000/#civil-engineering-analytics-and-data-visualization-",
     "relUrl": "/#civil-engineering-analytics-and-data-visualization-"
   },"13": {
     "doc": "CE3201",
     "title": "Week 8 - Welcome to CE3201 👏",
-    "content": "Oct 3 Lecture   1 Introduction [Slides] [Recordings] Oct 5 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
+    "content": "Oct 9 Lecture   1 Introduction [Slides] [Recordings] Oct 11 Tutorial 1 Python, Numpy [Exercise] [Solution] ",
     "url": "http://localhost:4000/#week-8-welcome-to-ce3201",
     "relUrl": "/#week-8-welcome-to-ce3201"
   },"14": {
     "doc": "CE3201",
     "title": "Week 9",
-    "content": "Oct 10 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 12 Tutorial 2 Pandas [Exercise] [Solution] ",
+    "content": "Oct 16 Lecture   2 Probability/Statistics [Slides] [Recordings] Oct 18 Tutorial 2 Pandas [Exercise] [Solution] ",
     "url": "http://localhost:4000/#week-9",
     "relUrl": "/#week-9"
   },"15": {
     "doc": "CE3201",
     "title": "Week 10",
-    "content": "Oct 17 Lecture   3 Extreme Value Analysis [Slides] [Recordings] HW#1 out Oct 19 Tutorial 3 Scipy + Work on HW#1 [Exercise] [Solution] Oct 21 Project out [Project Description] ",
+    "content": "Oct 23 Lecture   3 Extreme Value Analysis [Slides] [Recordings] HW#1 out Oct 25 Tutorial 3 Scipy + Work on HW#1 [Exercise] [Solution] Oct 27 Project out [Project Description] ",
     "url": "http://localhost:4000/#week-10",
     "relUrl": "/#week-10"
   },"16": {
     "doc": "CE3201",
     "title": "Week 11",
-    "content": "Oct 24 Lecture   4 From Data to Visualization [Slides] [Recordings] Oct 26 Tutorial 4 Work on HW#1 Oct 30 HW#1 due ",
+    "content": "Oct 30 Lecture   4 From Data to Visualization [Slides] [Recordings] Nov 1 Tutorial 4 Work on HW#1 Nov 5 HW#1 due ",
     "url": "http://localhost:4000/#week-11",
     "relUrl": "/#week-11"
   },"17": {
     "doc": "CE3201",
     "title": "Week 12",
-    "content": "Oct 31 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 2 Tutorial 5 Matplotlib + Work on HW#2 ",
+    "content": "Nov 6 Lecture   5 Figure Design [Slides] [Recordings] HW#2 OUT Nov 8 Tutorial 5 Matplotlib + Work on HW#2 ",
     "url": "http://localhost:4000/#week-12",
     "relUrl": "/#week-12"
   },"18": {
     "doc": "CE3201",
     "title": "Week 13",
-    "content": "Nov 7 Lecture   6 Storytelling with Data [Slides] [Recordings] Nov 9 Tutorial 6 Work on HW#2 Nov 13 HW#2 due ",
+    "content": "Nov 13 Lecture   6 Storytelling with Data [Slides] [Recordings] Nov 15 Tutorial 6 Work on HW#2 Nov 19 HW#2 due ",
     "url": "http://localhost:4000/#week-13",
     "relUrl": "/#week-13"
   },"19": {
     "doc": "CE3201",
     "title": "Examination Week",
-    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due . This website is in progress and all content is subject to change. ",
+    "content": "Previous 2022 Project Visualizing Urban Heat Stress and Labor Productivity Loss in Southeast Asia under Climate Change Dec 5 TBD [Project Description] Project Due . This website is in progress and all content is subject to change. ",
     "url": "http://localhost:4000/#examination-week",
     "relUrl": "/#examination-week"
   },"20": {
@@ -211,7 +211,7 @@
   },"35": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Haoling CHEN . 📧 h.chen@u.nus.edu . 📍 E1-08-22 (office) . Meilian LI . 📧 limeilian@u.nus.edu . 📍 E1-08-22 (office) . ",
+    "content": "Zhixiao NIU . 📧 niu.zhixiao@u.nus.edu . 📍 E1-08-22 (office) . ",
     "url": "http://localhost:4000/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   },"36": {
@@ -241,7 +241,7 @@
   },"40": {
     "doc": "Syllabus",
     "title": "Hybrid Format",
-    "content": "CE3201 will be taught in a hybrid format with lectures and tutorials. For the most up-to-date schedule, you can check the Home page. Lectures . | We will have 6 lectures in total. One lecture per week. | These lectures will be split into two themes. The first three will focus on data analysis, which will be followed by another three lectures on data visualization. | Lectures will be held live on Zoom and will be recorded. I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. | . Tutorials . | We will have 6 tutorials in total. One tutorial per week. | Tutorials are prepared in Jupyter Notebook format and are fully available online. | We understand that sometimes programming and debugging could be cumbersome. So please come to the computer lab to do tutorials so that the TAs and I can provide hands-on help. | You are welcome to seek help during office hours or through emails. But the best place to get help is the weekly tutorial session. | . Office Hours . | Weekly fixed office hours can be found on the Schedule tab, and will be held either virtually or in-person depending on your needs. | I have an open-door policy. So feel free to drop by my office for any reason, including course material clarification, questions on tutorials, assignments, and projects, or even just to hang out. | . ",
+    "content": "CE3201 will be taught in a hybrid format with lectures and tutorials. For the most up-to-date schedule, you can check the Home page. Lectures . | We will have 6 lectures in total. One lecture per week. | These lectures will be split into two themes. The first three will focus on data analysis, which will be followed by another three lectures on data visualization. | . Tutorials . | We will have 6 tutorials in total. One tutorial per week. | Tutorials are prepared in Jupyter Notebook format and are fully available online. | We understand that sometimes programming and debugging could be cumbersome. So please come to the computer lab to do tutorials so that the TAs and I can provide hands-on help. | You are welcome to seek help during office hours or through emails. But the best place to get help is the weekly tutorial session. | . Office Hours . | Weekly fixed office hours can be found on the Schedule tab, and will be held either virtually or in-person depending on your needs. | I have an open-door policy. So feel free to drop by my office for any reason, including course material clarification, questions on tutorials, assignments, and projects, or even just to hang out. | . ",
     "url": "http://localhost:4000/syllabus/#hybrid-format",
     "relUrl": "/syllabus/#hybrid-format"
   },"41": {
@@ -253,7 +253,7 @@
   },"42": {
     "doc": "Syllabus",
     "title": "Grading Scheme",
-    "content": "| Assignment type | Weight | Number | . | Tutorial attendance1 | 20% | 4 (+2)2 | . | Homework | 35% | 2 | . | Final Project | 45% | 1 | . | Please come to the computer lab (PC5 &amp; PC6) on time to do tutorials. Attendance will be checked. &#8617; . | There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 26, Week 11) and Tutorial 6 (Nov 9, Week 13) and still receive full points. &#8617; . | . ",
+    "content": "| Assignment type | Weight | Number | . | Tutorial attendance1 | 20% | 4 (+2)2 | . | Homework | 35% | 2 | . | Final Project | 45% | 1 | . | Please come to the computer lab (PC5 &amp; PC6) on time to do tutorials. Attendance will be checked. &#8617; . | There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Nov 1, Week 11) and Tutorial 6 (Nov 15, Week 13) and still receive full points. &#8617; . | . ",
     "url": "http://localhost:4000/syllabus/#grading-scheme",
     "relUrl": "/syllabus/#grading-scheme"
   },"43": {
