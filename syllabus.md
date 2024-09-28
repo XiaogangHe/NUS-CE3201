@@ -73,4 +73,4 @@ you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 
 [^1]: Please come to the computer lab (PC5 & PC6) on time to do tutorials. Attendance will be checked.  
 
-[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Nov 1, Week 11) and Tutorial 6 (Nov 15, Week 13) and still receive full points.
+[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 30, Week 11) and Tutorial 6 (Nov 13, Week 13) and still receive full points.
