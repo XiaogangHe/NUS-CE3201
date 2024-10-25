@@ -4,8 +4,8 @@ title: Examination Week
 
 Dec 3
 : **TBD**
-<!-- : **Visualizing Emerging Risks of Heat Extremes and Premature Death Rate in Southeast Asia under Climate Change**  -->
-  <!-- : [[Project Description](https://xiaoganghe.github.io/python-climate-visuals/chapters/project/FinalProject-2023Fall.html)] -->
+: **Visualizing Climate Change’s Impact on Energy Demand for Cooling Buildings in Southeast Asia under Extreme Heat** 
+  : [[Project Description](https://xiaoganghe.github.io/python-climate-visuals/chapters/project/FinalProject-2024Fall.html)]
 : **Project Due**{: .label .label-red} 
   : [](#)
  

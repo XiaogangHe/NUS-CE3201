@@ -9,4 +9,4 @@ Oct 14
 Oct 16
 : **Tutorial 2**{: .label .label-green} [Pandas](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas.html)
   : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas-exercise.html)]
-  <!-- [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas-solution.html)] -->
+  [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas-solution.html)]
