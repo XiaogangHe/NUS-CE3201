@@ -8,6 +8,5 @@ Nov 4
 : **HW#2 OUT**{: .label .label-yellow}
 
 Nov 6
-: **Tutorial 5**{: .label .label-green} [Matplotlib](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-visuals/matplotlib.html) + Work on HW#2
+: **Tutorial 5**{: .label .label-green} [Matplotlib](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-visuals/matplotlib.html) + Work on [HW#2](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework2.html)
   : [](#)
-<!-- (https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework2.html) -->
