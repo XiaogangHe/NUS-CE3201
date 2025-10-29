@@ -14,5 +14,5 @@ Oct 22
 
 Oct 24
 : **Project out**{: .label .label-yellow}
-  : [[Project Description](https://xiaoganghe.github.io/python-climate-visuals/chapters/project/FinalProject-2024Fall.html)]
+  : [[Project Description](https://xiaoganghe.github.io/python-climate-visuals/chapters/project/FinalProject-2025Fall.html)]
 
