@@ -12,7 +12,7 @@ Oct 21
   : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/scipy-exercise.html)] 
   [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/scipy-solution.html)]
 
-Oct 24
+Oct 23
 : **Project out**{: .label .label-yellow}
   : [[Project Description](https://xiaoganghe.github.io/python-climate-visuals/chapters/project/FinalProject-2025Fall.html)]
 
